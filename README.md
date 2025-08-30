@@ -18,7 +18,9 @@ A simple and interactive Expense Tracker built using **React.js**, allowing user
 
 ## 📸 Screenshots
 
-> *(Add a screenshot of your app's UI if available)*
+> ## 📸 Screenshots
+
+![App Screenshot](./Screenshot%202025-08-30%20194308.png)
 
 ## 📦 Installation
 
